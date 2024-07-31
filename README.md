@@ -21,7 +21,7 @@
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
 
@@ -31,7 +31,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
 
@@ -40,6 +40,24 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ![Screenshot 2024-07-19 120228](https://github.com/user-attachments/assets/3a09a7d5-a4ac-4659-8f36-56639c86a00e)
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Project Overview:
+
+Objective: Deploy a virtual machine using Microsoft Azure for a specific project (e.g., osTicket).
+
+Platform: Microsoft Azure
+
+Project Details: Demonstrated ability to use cloud platforms like Azure for infrastructure setup.
+Highlighted proficiency in configuring and managing cloud resources for specific applications.
+Showcased understanding of best practices for ensuring high availability and reliability of deployed resources.
+
+
+Key Skills and Competencies:
+
+Cloud Computing: Proficient in deploying and managing virtual machines in Microsoft Azure.
+
+Resource Management: Experience in organizing and managing resources using Azure Resource Groups.
+
+Configuration: Ability to specify and configure virtual machine parameters to meet project requirements.
+
 </p>
 <br />
